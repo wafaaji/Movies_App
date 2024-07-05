@@ -42,9 +42,15 @@ class SearchFieldWidget extends StatelessWidget {
                 ),
               ),
             ),
-            const SizedBox(width: 8,),
-            SvgPicture.asset(Constants.kIconMic),
-            const SizedBox(width: 8,),
+            const SizedBox(
+              width: 8,
+            ),
+            SvgPicture.asset(
+              Constants.kIconMic,
+            ),
+            const SizedBox(
+              width: 8,
+            ),
           ],
         ),
       ),
