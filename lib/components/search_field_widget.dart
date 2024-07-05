@@ -23,6 +23,9 @@ class SearchFieldWidget extends StatelessWidget {
             SvgPicture.asset(
               Constants.kIconSearch,
             ),
+            const SizedBox(
+              width: 4,
+            ),
             Expanded(
               child: TextField(
                 style: TextStyle(
