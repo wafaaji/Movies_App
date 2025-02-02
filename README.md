@@ -3,6 +3,10 @@
 Just a movie app UI
 
 <div style="display: flex; justify-content: space-between;">
+  <img src="assets/screenshots/Movies App.png" alt="onboarding Screen" width="300"/>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
   <img src="assets/screenshots/onboarding_screen.jpg" alt="onboarding Screen" width="300"/>
 </div>
 
